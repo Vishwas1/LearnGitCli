@@ -1,1 +1,13 @@
-this is test file for this new repo created using git shell.
+Creating Git Repo:::::::::::::::::::::::::::::::
+	git init
+	git add --all
+	git commit -m "Comment"
+	git status 
+	git branch
+	git checkout -b "development"
+	git log
+//go ahead and create a repo ... copy path
+	git remote add origin https://github.com/Vishwas1/LearnGitCli
+	git push -u origin master
+	
+	
