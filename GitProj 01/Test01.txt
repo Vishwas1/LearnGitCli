@@ -14,4 +14,4 @@ Creating Git Repo:::::::::::::::::::::::::::::::
 	
 -----------------------------------------------------
 
-Have deleted all those unusual stuffs.
+Have deleted all those 
