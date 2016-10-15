@@ -10,9 +10,17 @@ Creating Git Repo:::::::::::::::::::::::::::::::
 	git remote add origin https://github.com/Vishwas1/LearnGitCli
 	git push -u origin master
 	git pull origin master
+<<<<<<< HEAD
 	
 -----------------------------------------------------
 
 Some  more changes in the dedvelopment branch....
 	some more changes ....
 	few more changes
+=======
+	git diff --staged
+	
+-----------------------------------------------------
+
+Have deleted all those 
+>>>>>>> development
