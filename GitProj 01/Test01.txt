@@ -9,8 +9,10 @@ Creating Git Repo:::::::::::::::::::::::::::::::
 //go ahead and create a repo ... copy path
 	git remote add origin https://github.com/Vishwas1/LearnGitCli
 	git push -u origin master
+	git pull origin master
 	
 -----------------------------------------------------
 
 Some  more changes in the dedvelopment branch....
 	some more changes ....
+	few more changes
